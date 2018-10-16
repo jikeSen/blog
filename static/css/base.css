@@ -1,0 +1,36 @@
+body{
+    background-color: #ededed;
+  }
+/* 头部 */
+.header {
+    height: 260px;
+    background: #333333;
+    /* border: 1px solid red; */
+}
+.menu-primary-container{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.menu-primary-container .menu-nav{
+    padding-top: 25px;
+}
+
+/* 内容 */
+.content{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rebeccapurple;
+}
+.content .docum-entset{
+    width: 55%;
+    float: left;
+    background-color:white;
+    position:absolute;
+    top:210px;
+}
+
+.content .lable-entset{
+    width: 30%;
+    float: right;
+}
